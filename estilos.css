@@ -14,7 +14,7 @@ body {
 /* 2. Encabezado */ 
 .encabezado { 
     background-color: #173b67; 
-    color: #512da8.; 
+    color: #ffffff; 
     text-align: center; 
     padding: 36px 20px; 
 } 
@@ -61,6 +61,7 @@ body {
     margin-top: 8px; 
     color: #1456a0; 
     font-weight: bold; 
+    outline: 3px solid #5377d9;
     text-decoration: none; 
 } 
 .enlace:hover { 
